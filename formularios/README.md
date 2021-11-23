@@ -27,3 +27,6 @@ C:\laragon\www\formularios
 
 C:\laragon\www\formularios
 λ
+
+-JS arreglado
+-Accesibilidad 100%
