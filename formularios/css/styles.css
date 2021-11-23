@@ -22,6 +22,7 @@ body{
 	background-color: black;
 	line-height: 80px;
 	border-top: yellow 9px solid;
+	backdrop-filter: blur(14px) brightness(80%); 
 }
 
 /*Animacion flecha >*/ 
